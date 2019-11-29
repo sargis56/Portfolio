@@ -1,0 +1,17 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\bin\Debug\300904358(Nahapetyan)_ASS3Q1.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\bin\Debug\300904358(Nahapetyan)_ASS3Q1.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\bin\Debug\300904358(Nahapetyan)_ASS3Q1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\bin\Debug\LoginUserControl.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\bin\Debug\LoginUserControl.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\MainWindow.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\App.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1_MarkupCompile.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1_MarkupCompile.lref
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\MainWindow.baml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1.g.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\_300904358_Nahapetyan__ASS3Q1.Properties.Resources.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1.csproj.GenerateResource.Cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1\obj\Debug\300904358(Nahapetyan)_ASS3Q1.pdb

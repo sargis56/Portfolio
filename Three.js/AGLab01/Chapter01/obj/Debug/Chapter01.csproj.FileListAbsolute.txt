@@ -1,0 +1,14 @@
+C:\Users\npersh\Desktop\Chapter01\Chapter01\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\npersh\Desktop\Chapter01\Chapter01\bin\TypeScriptHTMLApp1.dll
+C:\Users\npersh\Desktop\Chapter01\Chapter01\bin\TypeScriptHTMLApp1.pdb
+C:\Users\npersh\Desktop\Chapter01\Chapter01\obj\Debug\Chapter01.csprojAssemblyReference.cache
+C:\Users\npersh\Desktop\Chapter01\Chapter01\obj\Debug\Chapter01.csproj.CoreCompileInputs.cache
+C:\Users\npersh\Desktop\Chapter01\Chapter01\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\npersh\Desktop\Chapter01\Chapter01\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\bin\TypeScriptHTMLApp1.dll
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\obj\Debug\Chapter01.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Lab01\Chapter01\obj\Debug\TypeScriptHTMLApp1.pdb

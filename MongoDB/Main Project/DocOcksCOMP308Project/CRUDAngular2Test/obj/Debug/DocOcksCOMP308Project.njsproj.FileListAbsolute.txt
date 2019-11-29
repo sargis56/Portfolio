@@ -1,0 +1,3 @@
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Emerging Topics\Assignments\Main Project\DocOcksCOMP308Project\CRUDAngular2Test\obj\Debug\DocOcksCOMP308Project.njsprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Emerging Topics\Assignments\Main Project\DocOcksCOMP308Project\CRUDAngular2Test\obj\Debug\DocOcksCOMP308Project.njsproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Emerging Topics\Assignments\Main Project\DocOcksCOMP308Project\CRUDAngular2Test\bin\Microsoft.NodejsTools.WebRole.dll

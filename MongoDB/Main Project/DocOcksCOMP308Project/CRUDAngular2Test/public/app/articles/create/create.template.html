@@ -1,0 +1,63 @@
+﻿<h1>Add Clinical Visit</h1>
+<form (ngSubmit)="create()" novalidate>
+    <div>
+        <label for="name">Patient Name</label>
+        <div>
+            <input type="text" required [(ngModel)]="article.patientName"
+                   name="patientName" placeholder="Name">
+        </div>
+    </div>
+    <div>
+        <label for="section">Body Temperature</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.bodyTemp"
+                   name="bodyTemp">
+        </div>
+    </div>
+    <div>
+        <label for="section">Heart Rate</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.heartRate"
+                   name="heartRate">
+        </div>
+    </div>
+    <div>
+        <label for="section">Blood Pressure</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.bloodPressure"
+                   name="bloodPressure">
+        </div>
+    </div>
+    <div>
+        <label for="section">Respiratory Rate</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.respiratoryRate"
+                   name="respiratoryRate">
+        </div>
+    </div>
+    <div>
+        <label for="section">Day</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.dateDay"
+                   name="dateDay">
+        </div>
+    </div>
+    <div>
+        <label for="section">Month</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.dateMonth"
+                   name="dateMonth">
+        </div>
+    </div>
+    <div>
+        <label for="section">Year</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.dateYear"
+                   name="dateYear">
+        </div>
+    </div>
+    <div>
+        <input type="submit">
+    </div>
+    <strong id="error">{{errorMessage}}</strong>
+</form>

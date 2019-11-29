@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="" description="">
+	  <siteMapNode url="~/HomePage.aspx" title="Home Page"  description="Home Webpage of the Site">
+      <siteMapNode url="~/HomePage_UnityUpdate.aspx" title="Unity Update Webpage" description="Unity Update | 10/12/17"/>
+    </siteMapNode>
+    <siteMapNode url="~/GamesPage.aspx" title="Games Page" description="Our Game Selection Webpage">
+      <siteMapNode url="~/GamesPage_100.aspx" title="ONE BONES" description="ONE BONES Infomation Webpage"/>
+      <siteMapNode url="~/GamesPage_101.aspx" title="AMAZON FIGHTERS" description="AMAZON FIGHTERS Infomation Webpage"/>
+      <siteMapNode url="~/GamesPage_ComingSoon.aspx" title="Coming Soon..." description="Future releases Information Webpage"/>
+    </siteMapNode>
+    <siteMapNode url="~/AboutPage.aspx" title="About Page" description="About Webpage of the Site">
+      <siteMapNode url="~/AboutPage_TheShip.aspx" title="The Ship Page" description="Ship/Company Information Webpage"/>
+      <siteMapNode url="~/AboutPage_OurCrew.aspx" title="Our Crew Page" description="Crew/Team Members Information Webpage"/>
+    </siteMapNode>
+	  <siteMapNode url="~/ShopPage.aspx" title="Shop Page" description="Shopping Webpage of the Site">
+      <siteMapNode/>
+    </siteMapNode>
+    <siteMapNode url="~/ContactPage.aspx" title="Contact Page" description="Contact Webpage of the Site">
+      <siteMapNode/>
+    </siteMapNode>
+	  <siteMapNode url="" title=""  description="" />
+  </siteMapNode>
+</siteMap>

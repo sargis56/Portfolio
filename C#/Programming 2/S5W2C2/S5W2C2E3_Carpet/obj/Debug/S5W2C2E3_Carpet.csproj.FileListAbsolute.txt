@@ -1,0 +1,9 @@
+H:\COMP123\S5W2C2\S5W2C2E3_Carpet\bin\Debug\S5W2C2E3_Carpet.exe.config
+H:\COMP123\S5W2C2\S5W2C2E3_Carpet\bin\Debug\S5W2C2E3_Carpet.exe
+H:\COMP123\S5W2C2\S5W2C2E3_Carpet\bin\Debug\S5W2C2E3_Carpet.pdb
+H:\COMP123\S5W2C2\S5W2C2E3_Carpet\obj\Debug\S5W2C2E3_Carpet.csprojResolveAssemblyReference.cache
+H:\COMP123\S5W2C2\S5W2C2E3_Carpet\obj\Debug\S5W2C2E3_Carpet.exe
+H:\COMP123\S5W2C2\S5W2C2E3_Carpet\obj\Debug\S5W2C2E3_Carpet.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W2C2\S5W2C2E3_Carpet\bin\Debug\S5W2C2E3_Carpet.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W2C2\S5W2C2E3_Carpet\obj\Debug\S5W2C2E3_Carpet.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W2C2\S5W2C2E3_Carpet\obj\Debug\S5W2C2E3_Carpet.pdb

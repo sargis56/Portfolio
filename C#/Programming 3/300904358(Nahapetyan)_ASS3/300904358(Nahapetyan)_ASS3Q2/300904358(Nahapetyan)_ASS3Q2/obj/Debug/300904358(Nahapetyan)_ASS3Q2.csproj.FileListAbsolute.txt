@@ -1,0 +1,7 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\bin\Debug\300904358(Nahapetyan)_ASS3Q2.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\bin\Debug\300904358(Nahapetyan)_ASS3Q2.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\bin\Debug\300904358(Nahapetyan)_ASS3Q2.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\obj\Debug\300904358(Nahapetyan)_ASS3Q2.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\obj\Debug\300904358(Nahapetyan)_ASS3Q2.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\obj\Debug\300904358(Nahapetyan)_ASS3Q2.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q2\300904358(Nahapetyan)_ASS3Q2\obj\Debug\300904358(Nahapetyan)_ASS3Q2.pdb

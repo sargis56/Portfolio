@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">sargisnahapetyan_COMP304_Assign2</string>
+    <string name="str_back">BACK</string>
+    <string name="str_logodesc">Funny Logo</string>
+    <string name="str_enter">ENTER</string>
+    <string name="str_american">American</string>
+    <string name="str_italian">Italian</string>
+    <string name="str_international">International</string>
+    <string name="str_chinese">Chinese</string>
+    <string name="str_indian">Indian</string>
+    <string name="str_norestaurant">No restaurant selected</string>
+    <string name="str_next">NEXT</string>
+    <string name="str_order">ORDER</string>
+
+    <string name="str_italian_mama">Mama Janes Pizza</string>
+    <string name="str_italian_mario">Marios Pizza</string>
+    <string name="str_italian_antanios">Antonios Pizza and Pasta</string>
+
+    <string name="str_american_mcdonalds">Mcdonalds</string>
+    <string name="str_american_kgc">Kentucky Grilled Chicken</string>
+    <string name="str_american_pizzahut">Pizza Hut</string>
+
+    <string name="str_international_turkish">Turkish Chum</string>
+    <string name="str_international_devil">Devils Diner</string>
+    <string name="str_international_pubg">PUB-G</string>
+
+    <string name="str_placeholer">placeholer</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sargisnahapetyan_COMP304Lab1_Ex2</string>
+    <string name="str_college">Centennial college</string>
+    <string name="str_campus">Progress campus</string>
+    <string name="str_address">941 Progress Ave</string>
+    <string name="str_postal">M1G 3T8</string>
+</resources>

@@ -1,0 +1,133 @@
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\ApplicationInsights.config
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\csc.exe
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Collections.Immutable.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Reflection.Metadata.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\vbc.exe
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe.config
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll.config
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.pdb
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\ApplicationInsights.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\csc.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\vbc.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.pdb
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite(12-28-17)\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite(12-28-17)\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.pdb
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\ApplicationInsights.config
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\csc.exe
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Collections.Immutable.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Reflection.Metadata.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\vbc.exe
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe.config
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll.config
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.pdb
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.csprojResolveAssemblyReference.cache
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.dll
+G:\[Interactive Gaming]\[Web App Development] COMP 229\GROUP PROJECT\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\ApplicationInsights.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\csc.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\vbc.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\JollyRogersOfficialWebsite.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 3\Web\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\JollyRogersOfficialWebsite\obj\Debug\JollyRogersOfficialWebsite.pdb

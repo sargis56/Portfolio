@@ -1,0 +1,9 @@
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\bin\Debug\S5W12C1E1.exe.config
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\bin\Debug\S5W12C1E1.exe
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\bin\Debug\S5W12C1E1.pdb
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\obj\Debug\S5W12C1E1.csprojResolveAssemblyReference.cache
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\obj\Debug\S5W12C1E1.Properties.Resources.resources
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\obj\Debug\S5W12C1E1.csproj.GenerateResource.Cache
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\obj\Debug\S5W12C1E1.exe
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\obj\Debug\S5W12C1E1.pdb
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E1\obj\Debug\S5W12C1E1.FrmHelloWorld.resources

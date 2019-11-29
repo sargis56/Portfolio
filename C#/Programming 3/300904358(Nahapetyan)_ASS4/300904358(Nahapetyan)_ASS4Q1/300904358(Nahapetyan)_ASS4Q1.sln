@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballTable", "BaseballTable\BaseballTable.csproj", "{2BED6C9A-EE3B-4C48-893D-D8F72139D08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayPlayerTable", "DisplayPlayerTable\DisplayPlayerTable.csproj", "{0011253D-E7E0-43DC-BB85-44D001FD3679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BED6C9A-EE3B-4C48-893D-D8F72139D08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BED6C9A-EE3B-4C48-893D-D8F72139D08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BED6C9A-EE3B-4C48-893D-D8F72139D08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BED6C9A-EE3B-4C48-893D-D8F72139D08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0011253D-E7E0-43DC-BB85-44D001FD3679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0011253D-E7E0-43DC-BB85-44D001FD3679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0011253D-E7E0-43DC-BB85-44D001FD3679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0011253D-E7E0-43DC-BB85-44D001FD3679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A4803D2-471E-418D-93B9-4CDE983FB27C}
+	EndGlobalSection
+EndGlobal

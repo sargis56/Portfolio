@@ -1,0 +1,1 @@
+﻿const patient = require('../../app/controllers/patient.server.controller');

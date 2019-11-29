@@ -1,0 +1,8 @@
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\bin\Debug\S5W12C1E2.exe.config
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\bin\Debug\S5W12C1E2.exe
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\bin\Debug\S5W12C1E2.pdb
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\obj\Debug\S5W12C1E2.Properties.Resources.resources
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\obj\Debug\S5W12C1E2.csproj.GenerateResource.Cache
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\obj\Debug\S5W12C1E2.exe
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\obj\Debug\S5W12C1E2.pdb
+C:\Users\300904358\Desktop\S5W12C1\S5W12C1E2\obj\Debug\S5W12C1E2.SayHello.resources

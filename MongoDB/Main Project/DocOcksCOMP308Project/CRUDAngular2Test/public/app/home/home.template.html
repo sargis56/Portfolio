@@ -1,0 +1,25 @@
+﻿<div *ngIf="user">
+    <div *ngIf="user.checkNurse">
+        <h1>Hello Nurse {{user.firstName}}</h1>
+        <a href="/api/auth/signout">Signout</a>
+        <ul>
+            <li><a [routerLink]="['/articles']">Clinical Visits List</a></li>
+            <li><a [routerLink]="['/articles/create']">Enter Clinical Visit:</a></li>
+        </ul>
+
+    </div>
+    <div *ngIf="!user.checkNurse">
+        <h1>Hello Patient {{user.firstName}}</h1>
+        <a href="/api/auth/signout">Signout</a>
+        <ul>
+            <li><a [routerLink]="['/patient']">List Courses</a></li>
+            <li><a [routerLink]="['/patient/media']">Videos and Games</a></li>
+        </ul>
+    </div>
+</div>
+
+
+<div *ngIf="!user">
+    <a [routerLink]="['/authentication/signup']">Signup</a>
+    <a [routerLink]="['/authentication/signin']">Signin</a>
+</div>

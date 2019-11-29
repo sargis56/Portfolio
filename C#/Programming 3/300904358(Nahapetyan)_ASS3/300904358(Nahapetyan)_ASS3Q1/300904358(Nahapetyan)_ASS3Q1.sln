@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "300904358(Nahapetyan)_ASS3Q1", "300904358(Nahapetyan)_ASS3Q1\300904358(Nahapetyan)_ASS3Q1.csproj", "{163AEA9D-ADBB-4059-9B89-ED9BE4C7F0D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginUserControl", "LoginUserControl\LoginUserControl.csproj", "{771FAA78-A93E-4359-9B8E-B4C146D9530B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163AEA9D-ADBB-4059-9B89-ED9BE4C7F0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163AEA9D-ADBB-4059-9B89-ED9BE4C7F0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163AEA9D-ADBB-4059-9B89-ED9BE4C7F0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163AEA9D-ADBB-4059-9B89-ED9BE4C7F0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771FAA78-A93E-4359-9B8E-B4C146D9530B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771FAA78-A93E-4359-9B8E-B4C146D9530B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771FAA78-A93E-4359-9B8E-B4C146D9530B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771FAA78-A93E-4359-9B8E-B4C146D9530B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD302670-381D-4E1C-98FF-F6F543604675}
+	EndGlobalSection
+EndGlobal

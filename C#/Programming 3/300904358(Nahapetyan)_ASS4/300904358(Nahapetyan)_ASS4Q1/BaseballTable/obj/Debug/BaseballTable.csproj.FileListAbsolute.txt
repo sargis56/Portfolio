@@ -1,0 +1,13 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\Baseball.mdf
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\Baseball_log.ldf
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\BaseballTable.dll.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\BaseballTable.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\BaseballTable.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\EntityFramework.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\EntityFramework.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\obj\Debug\BaseballTable.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\obj\Debug\BaseballTable.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\obj\Debug\BaseballTable.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q1\BaseballTable\obj\Debug\BaseballTable.csprojResolveAssemblyReference.cache

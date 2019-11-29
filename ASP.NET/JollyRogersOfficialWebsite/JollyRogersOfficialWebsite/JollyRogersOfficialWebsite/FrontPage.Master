@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FrontPage.master.cs" Inherits="JollyRogersOfficialWebsite.FrontPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    <!-- Title of Website Placement -->
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="App_Themes/JollyRogersTheme/JollyRogersStyleSheet.css" /> 
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <table style="width: 100%">
+			<tr>
+				<td  style="width: 199px; " class="centercell" rowspan="2" valign="top">
+                    <asp:HyperLink NavigateUrl="~/HomePage.aspx" runat="server">
+                        <asp:Image runat="server" id="logo" ImageUrl="Images/Company Logo Black - Copy.png" AlternateText="Go to Home" />
+                    </asp:HyperLink>
+					<br />
+					<div>
+
+						<asp:SiteMapDataSource ID="jollyRogersMapDataSource" runat="server"/>
+
+						<asp:TreeView ID="jollyRogersTreeView" runat="server"
+							DataSourceID="jollyRogersMapDataSource" NodeIndent="10" ShowExpandCollapse="False">
+                            <HoverNodeStyle Font-Underline="True" ForeColor="#5555DD" />
+                            <NodeStyle Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" HorizontalPadding="0px" NodeSpacing="0px" VerticalPadding="0px" />
+                            <ParentNodeStyle Font-Bold="True" ImageUrl="Images/Mini2 - Copy.png" />
+                            <LeafNodeStyle HorizontalPadding="36px" />
+                            <RootNodeStyle Font-Bold="true" />
+                            <SelectedNodeStyle Font-Underline="True" ForeColor="#5555DD" HorizontalPadding="0px" VerticalPadding="0px" />
+                        </asp:TreeView>
+					</div>
+					</td>
+				<td style="height: 88px" class="centercell"> &nbsp;
+					<div class="tab">
+						<asp:Button CssClass="tabbtn" id="gamesbtn" OnClick="gamesbtn_Click" 
+						runat="server" Text="GAMES     ▼" />
+							<div class="tab-content">
+								<a href="GamesPage_100.aspx">
+                                    <asp:Label runat="server" ID="lbl100Title" />
+								</a>
+                                <a href="GamesPage_101.aspx">
+                                    <asp:Label runat="server" ID="lbl101Title" />
+								</a>
+                                <a href="GamesPage_ComingSoon.aspx" >Coming Soon!</a>
+							</div>&nbsp;&nbsp;
+					</div>
+					<div class="tab">
+						<asp:Button CssClass="tabbtn" id="aboutbtn" 
+						runat="server" Text="ABOUT     ▼" OnClick="aboutbtn_Click" />
+						<div class="tab-content">
+							<a href="AboutPage_TheShip.aspx">The Ship (Company)</a>
+                            <a href="AboutPage_OurCrew.aspx">Our Crew</a>
+						</div>&nbsp;&nbsp;
+					</div>
+						<asp:Button CssClass="tabbtn" id="shopbtn" 
+						runat="server" Text="     SHOP     " OnClick="shopbtn_Click" />&nbsp;&nbsp;
+						<asp:Button CssClass="tabbtn" id="contactbtn" 
+						runat="server" Text="  CONTACT   " OnClick="contactbtn_Click"/>&nbsp;&nbsp;
+                    <asp:Button CssClass="tabbtn" id="loginbn" 
+						runat="server" Text="  Login   " OnClick="loginbtn_Click" Height="38px" Width="128px"/>&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="height: 404px" valign="top" class="content">
+					<asp:ContentPlaceHolder ID="FrontPageContent" runat="server">
+        				<!-- Page Content Placement -->
+        			</asp:ContentPlaceHolder>
+        		</td>
+			</tr>
+		</table>
+            <asp:Label ID="copyright" runat="server" 
+            Text="Copyright © 2017 | Kris Campbell 300693835 | Winston Heraldo 300882911 | Sargis Nhapetyan 300904358" 
+            Font-Size="Small" />
+    </div>
+    </form>
+</body>
+</html>

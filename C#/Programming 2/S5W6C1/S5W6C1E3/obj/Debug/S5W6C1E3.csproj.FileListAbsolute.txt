@@ -1,0 +1,12 @@
+H:\COMP123\S5W6C1\S5W6C1E3\bin\Debug\S5W6C1E3.exe.config
+H:\COMP123\S5W6C1\S5W6C1E3\bin\Debug\S5W6C1E3.exe
+H:\COMP123\S5W6C1\S5W6C1E3\bin\Debug\S5W6C1E3.pdb
+H:\COMP123\S5W6C1\S5W6C1E3\obj\Debug\S5W6C1E3.csprojResolveAssemblyReference.cache
+H:\COMP123\S5W6C1\S5W6C1E3\obj\Debug\S5W6C1E3.exe
+H:\COMP123\S5W6C1\S5W6C1E3\obj\Debug\S5W6C1E3.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W6C1\S5W6C1E3\bin\Debug\S5W6C1E3.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W6C1\S5W6C1E3\obj\Debug\S5W6C1E3.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W6C1\S5W6C1E3\obj\Debug\S5W6C1E3.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W6C1\S5W6C1E3\bin\Debug\S5W6C1E3.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W6C1\S5W6C1E3\bin\Debug\S5W6C1E3.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W6C1\S5W6C1E3\obj\Debug\S5W6C1E3.csprojResolveAssemblyReference.cache

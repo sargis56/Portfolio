@@ -1,0 +1,18 @@
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\school\CC sem 2\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\school\CC sem 2\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.exe
+C:\Users\Sargis Nahapetyan\Desktop\school\CC sem 2\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\school\CC sem 2\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.exe
+C:\Users\Sargis Nahapetyan\Desktop\school\CC sem 2\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\bin\Debug\SNahapetyan_300904358_A1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\school\CC sem 2\COMP123\SNahapetyan_300904358_A1 - Edited\SNahapetyan_300904358_A1\obj\Debug\SNahapetyan_300904358_A1.csprojResolveAssemblyReference.cache

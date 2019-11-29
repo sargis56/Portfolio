@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="420.0" prefWidth="323.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.141" fx:controller="application.MainController">
+   <children>
+      <AnchorPane prefHeight="420.0" prefWidth="400.0">
+         <children>
+            <Text layoutX="56.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Price of Car: $" />
+            <TextField fx:id="txtPrice" layoutX="129.0" layoutY="41.0" prefHeight="25.0" prefWidth="101.0" />
+            <Text layoutX="36.0" layoutY="91.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Down Payment: $" />
+            <TextField fx:id="txtDP" layoutX="129.0" layoutY="74.0" prefHeight="25.0" prefWidth="101.0" />
+            <Text layoutX="34.0" layoutY="125.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Annual Interest; %" />
+            <TextField fx:id="txtAI" layoutX="129.0" layoutY="108.0" prefHeight="25.0" prefWidth="101.0" />
+            <ButtonBar layoutX="62.0" layoutY="149.0" prefHeight="40.0" prefWidth="77.0" />
+            <Button layoutX="129.0" layoutY="149.0" mnemonicParsing="false" onAction="#onCalcClick" text="Calculate" />
+            <Text layoutX="59.0" layoutY="202.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Duration" />
+            <Text layoutX="183.0" layoutY="202.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Monthly Payment" />
+            <Label fx:id="lbl2Y" layoutX="180.0" layoutY="210.0" text="Label" textFill="RED" />
+            <Label fx:id="lbl3Y" layoutX="180.0" layoutY="237.0" text="Label" textFill="#ffe500" />
+            <Label fx:id="lbl4Y" layoutX="180.0" layoutY="265.0" text="Label" textFill="#2aff00" />
+            <Label fx:id="lbl5Y" layoutX="180.0" layoutY="292.0" text="Label" textFill="#000cff" />
+            <Text fill="RED" layoutX="33.0" layoutY="223.0" strokeType="OUTSIDE" strokeWidth="0.0" text="24 Months (2 Years)" />
+            <Text fill="#ffe500" layoutX="33.0" layoutY="250.0" strokeType="OUTSIDE" strokeWidth="0.0" text="36 Months (3 Years)" />
+            <Text fill="#2aff00" layoutX="33.0" layoutY="278.0" strokeType="OUTSIDE" strokeWidth="0.0" text="48 Months (4 Years)" />
+            <Text fill="#000cff" layoutX="33.0" layoutY="305.0" strokeType="OUTSIDE" strokeWidth="0.0" text="60 Months (5 Years)" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

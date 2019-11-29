@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="COMP229MidtermExam.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 1920px;
+            height: 131px;
+            margin-right: 0px;
+        }
+        th {
+    background-color: #4CAF50;
+}
+                p {
+    background-color: #4CAF50;
+}
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <asp:Label ID="Label1" runat="server" style="z-index: 1; left: 10px; top: 15px; position: absolute" Text="OMFG Dogs Math!"></asp:Label>
+
+        <img alt="" class="auto-style1" src="Images/math-resource-lab-header.jpg" /></div>
+        <table>
+              <tr>
+    <th>       <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        <asp:Menu ID="Menu" runat="server" BackColor="White" DataSourceID="SiteMapDataSource1" StaticDisplayLevels="3" >
+        </asp:Menu></th>
+<%--I used "StaticDisplayLevels="3" to get rid of the root in the menu, It can be done by placing it in the asp:Menu contorl--%>
+    <th>        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder></th> 
+  </tr>
+</table>
+
+    </form>
+    <p>
+        © COMP229 | Centennial College |&nbsp; Sargis Nahapetyan (300904358)</p>
+</body>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Images/Advertisement.png</ImageUrl>
+		<NavigateUrl>
+			http://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-interactive-gaming-coop/
+		</NavigateUrl>
+		<TargetUrl>_blank</TargetUrl>
+		<Keyword>Software Engineer</Keyword>
+		<Impressions>50</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/asp.net-banner.jpg</ImageUrl>
+		<NavigateUrl>http://smrdibaj.wixsite.com/smrezadibaj</NavigateUrl>
+		<TargetUrl>_blank</TargetUrl>
+		<Keyword>The Site of Reza</Keyword>
+		<Impressions>50</Impressions>
+	</Ad>
+</Advertisements>

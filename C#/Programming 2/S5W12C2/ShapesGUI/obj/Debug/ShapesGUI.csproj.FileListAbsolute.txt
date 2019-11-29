@@ -1,0 +1,18 @@
+H:\COMP123\S5W12C2\ShapesGUI\bin\Debug\ShapesGUI.exe.config
+H:\COMP123\S5W12C2\ShapesGUI\bin\Debug\ShapesGUI.exe
+H:\COMP123\S5W12C2\ShapesGUI\bin\Debug\ShapesGUI.pdb
+H:\COMP123\S5W12C2\ShapesGUI\bin\Debug\ShapesLib.dll
+H:\COMP123\S5W12C2\ShapesGUI\bin\Debug\ShapesLib.pdb
+H:\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.csprojResolveAssemblyReference.cache
+H:\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.Form1.resources
+H:\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.Properties.Resources.resources
+H:\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.csproj.GenerateResource.Cache
+H:\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.exe
+H:\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\bin\Debug\ShapesGUI.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.Form1.resources
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.Properties.Resources.resources
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W12C2\ShapesGUI\obj\Debug\ShapesGUI.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿<Window x:Class="_300904358_Nahapetyan__ASS7Q2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_300904358_Nahapetyan__ASS7Q2"
+        mc:Ignorable="d"
+        Title="Linear Search Algorithm " Height="450" Width="399.2">
+    <Grid Margin="0,0,3.8,0" Background="#FFD7FFD8">
+        <TextBox x:Name="txtGenTextBoxInteger" IsReadOnly="True"  HorizontalAlignment="Left" Height="233" Margin="75,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="106" Background="#FFFFCDCD"/>
+        <Button Content="Generate Double" x:Name="btnGenDouble" HorizontalAlignment="Left" Margin="212,291,0,0" VerticalAlignment="Top" Width="135" Click="GenDouble_Click" Background="#FF9398FF"/>
+        <Button Content="Generate Integer" x:Name="btnGenInt" HorizontalAlignment="Left" Margin="59,291,0,0" VerticalAlignment="Top" Width="135" Click="GenInt_Click" Background="#FFFF8989"/>
+        <TextBox x:Name="txtGenTextBoxDouble" IsReadOnly="True" HorizontalAlignment="Left" Height="233" Margin="225,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="106" Background="#FFBCD0FF"/>
+        <TextBox HorizontalAlignment="Left" x:Name="txtSearchKey" Height="23" Margin="126,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Search Key:" x:Name="lblSearchKey" HorizontalAlignment="Left" Margin="51,348,0,0" VerticalAlignment="Top"/>
+        <Button Content="Search" x:Name="btnSearch" HorizontalAlignment="Left" Margin="256,352,0,0" VerticalAlignment="Top" Width="75" Click="btnSearch_Click"/>
+        <Button Content="Generate Integer and Double" x:Name="btnGenBoth" HorizontalAlignment="Left" Margin="59,323,0,0" VerticalAlignment="Top" Width="288" Background="#FFFFF48F" Click="btnGenBoth_Click"/>
+
+    </Grid>
+</Window>

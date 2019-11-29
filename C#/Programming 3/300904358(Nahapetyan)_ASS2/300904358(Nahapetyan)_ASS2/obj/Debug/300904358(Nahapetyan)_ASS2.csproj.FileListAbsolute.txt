@@ -1,0 +1,15 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\bin\Debug\300904358(Nahapetyan)_ASS2.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\bin\Debug\300904358(Nahapetyan)_ASS2.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\bin\Debug\300904358(Nahapetyan)_ASS2.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\MainWindow.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\App.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2_MarkupCompile.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2_MarkupCompile.lref
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\MainWindow.baml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2.g.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\_300904358_Nahapetyan__ASS2.Properties.Resources.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2.csproj.GenerateResource.Cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS2\300904358(Nahapetyan)_ASS2\obj\Debug\300904358(Nahapetyan)_ASS2.csprojResolveAssemblyReference.cache

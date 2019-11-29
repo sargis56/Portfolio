@@ -1,0 +1,7 @@
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\bin\AGLab01.dll.config
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\bin\AGLab01.dll
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\bin\AGLab01.pdb
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\obj\Debug\AGLab01.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\obj\Debug\AGLab01.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\obj\Debug\AGLab01.dll
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Advanced Grahpics\Labs\AGLab01\Chapter01\obj\Debug\AGLab01.pdb

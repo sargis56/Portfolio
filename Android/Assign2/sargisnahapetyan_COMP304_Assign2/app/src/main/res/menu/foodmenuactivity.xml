@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/italian_mama"
+        android:title="@string/str_italian_mama" />
+    <item
+        android:id="@+id/italian_mario"
+        android:title="@string/str_italian_mario" />
+    <item
+        android:id="@+id/italian_antanios"
+        android:title="@string/str_italian_antanios" />
+    <item
+        android:id="@+id/american_mcdonalds"
+        android:title="@string/str_american_mcdonalds" />
+    <item
+        android:id="@+id/american_kgc"
+        android:title="@string/str_american_kgc" />
+    <item
+        android:id="@+id/international_turkish"
+        android:title="@string/str_international_turkish" />
+    <item
+        android:id="@+id/american_pizzahut"
+        android:title="@string/str_american_pizzahut" />
+    <item
+        android:id="@+id/international_devil"
+        android:title="@string/str_international_devil" />
+    <item
+        android:id="@+id/international_pubg"
+        android:title="@string/str_international_pubg" />
+</menu>

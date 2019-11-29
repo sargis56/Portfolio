@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<style>
+body {
+  text-align: center;
+}
+</style>
+<head>
+<title> <%= title %> </title>
+</head>
+<body>
+<h1>Admin Control</h1>
+<form method = "post" > 
+<label>First Name:</label>
+	<input type="text" size="30" name="firstName" value=<%= firstNamein%>><br />
+	<label>Last Name:</label>
+	<input type="text"  size="30" name="lastName" value=<%= lastNamein%>><br />
+	<label>Email:</label>
+	<input type="text" size="30" placeholder="Enter a email:" name="email" value=<%= emailin%>><br />
+		<label>Password:</label>
+	<input type="text" size="30" name="password" value=<%= passwordin%>><br />
+	<label>Favourite Subject:</label>
+	<input type="text" size="30" name="Favourite Subject" value=<%= fsin%>><br />
+	<label>Favourite Teacher:</label>
+	<input type="text" size="30" name="Favourite Teacher" value=<%= ftin%>><br />
+	<label>Feedback:</label>
+	<input type="text" size="30" name="Feedback" value=<%= feedbackin%>><br />
+
+	<button type="submit" > Submit </button></form>
+
+</body>
+</html>

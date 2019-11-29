@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="LoginUserControl.LoginUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LoginUserControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="525">
+    <Grid>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*"/>
+        <ColumnDefinition Width="*"/>
+    </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="labelUserName" Content="User Name" Grid.Row="0" Grid.Column="0" Margin="0,10,0,10" Height="23" HorizontalAlignment="Center"/>
+        <Label x:Name="labelPassword" Content="Password" Grid.Row="1" Grid.Column="0" Margin="0,10,0,10" Height="23" HorizontalAlignment="Center"/>
+        <TextBox x:Name="textBoxUserName" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Height="23" Margin="0,10,0,10" TextWrapping="Wrap" Text="" Width="120"/>
+        <TextBox x:Name="textBoxPassword" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Height="23" Margin="0,10,0,10" TextWrapping="Wrap" Text="" Width="120"/>
+    </Grid>
+</UserControl>

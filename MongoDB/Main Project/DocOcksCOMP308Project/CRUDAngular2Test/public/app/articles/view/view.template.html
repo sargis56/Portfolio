@@ -1,0 +1,12 @@
+﻿<section *ngIf="article && article.creator">
+    <h1>{{article.patientName}}</h1>
+    <div *ngIf="allowEdit">
+        <a [routerLink]="['/articles', article._id, 'edit']">Update</a>
+        <button (click)="delete()">delete</button>
+    </div>
+    <small>
+        <em>
+            Added on {{article.created}} by {{article.creator.fullName}} for patient {{article.patientName}} on vist {{article.dateDay}}/{{article.dateMonth}}/{{article.dateYear}}
+        </em>
+    </small>
+</section>

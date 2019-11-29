@@ -1,0 +1,120 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FrontPage.master.cs" Inherits="_300693835_Assignment02.FrontPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    <!-- Title of Website Placement -->
+    </asp:ContentPlaceHolder>
+    
+<style type="text/css">
+	.centercell {
+		text-align: center;
+	}
+	.rightcell {
+		text-align:right;
+		font-size:small;
+	}
+	.tabbtn {
+		background-color:black;
+		color:whitesmoke;
+		border:none;
+		padding: 9px;
+		padding-left:25px;
+		padding-right:25px;	
+	}
+	.tab {
+		position:relative;
+		display:inline-block;
+	}
+	.tab-content {
+		display:none;
+		position:absolute;
+		background-color:beige;
+		z-index:1;
+	}
+	.tab-content a{
+		color:black;
+		display:block;
+		padding: 9px;
+	}
+	.tab-content a:hover{
+		background-color:papayawhip;
+	}
+
+	.tab:hover .tab-content{
+		display:block;
+	}
+	.content{
+	padding-left:30px;
+	padding-right:30px;
+	}
+	body {
+		font-family:Verdana, Geneva, Tahoma, sans-serif;
+		background-color:#FDFFE6
+	}
+	.italics {
+		font-style:italic;
+		font-size:small;
+	}
+}
+</style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <table style="width: 100%">
+			<tr>
+				<td style="width: 199px; " class="centercell" rowspan="2" valign="top">
+                    <asp:HyperLink NavigateUrl="~/HomePage.aspx" runat="server">
+                        <asp:Image runat="server" id="logo" ImageUrl="Images/Company Logo Black - Copy.png" AlternateText="Go to Home" />
+                    </asp:HyperLink>
+					<br />
+					<div>
+
+						<asp:SiteMapDataSource ID="jollyRogersMapDataSource" runat="server"/>
+
+						<asp:TreeView ID="jollyRogersTreeView" runat="server"
+							DataSourceID="jollyRogersMapDataSource" OnSelectedNodeChanged="jollyRogersTreeView_SelectedNodeChanged" />
+					</div>
+					</td>
+				<td style="height: 88px" class="centercell"> &nbsp;
+					<div class="tab">
+						<asp:Button CssClass="tabbtn" id="gamesbtn" 
+						runat="server" Text="GAMES     ▼" />
+							<div class="tab-content">
+								<a>Coming Soon...</a>
+							</div>&nbsp;&nbsp;
+					</div>
+					<div class="tab">
+						<asp:Button CssClass="tabbtn" id="aboutbtn" 
+						runat="server" Text="ABOUT     ▼" />
+						<div class="tab-content">
+							<a>Coming Soon...</a>
+						</div>&nbsp;&nbsp;
+					</div>
+						<asp:Button CssClass="tabbtn" id="shopbtn" 
+						runat="server" Text="     SHOP     " OnClick="shopbtn_Click" />&nbsp;&nbsp;
+						<asp:Button CssClass="tabbtn" id="contactbtn" 
+						runat="server" Text="  CONTACT   " />&nbsp;&nbsp;
+					
+				</td>
+			</tr>
+			<tr>
+				<td style="height: 404px" valign="top" class="content">
+					<asp:ContentPlaceHolder ID="FrontPageContent" runat="server">
+        				<!-- Page Content Placement -->
+        			</asp:ContentPlaceHolder>
+        		</td>
+			</tr>
+		</table>
+        <asp:Label ID="copyright" runat="server" 
+        Text="Copyright © 2017 | Kris Campbell 300693835 | Winston Heraldo 300882911 | Sargis Nhapetyan 300904358" 
+        Font-Size="Small" />
+    </div>
+    </form>
+</body>
+</html>

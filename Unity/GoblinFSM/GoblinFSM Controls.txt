@@ -1,0 +1,2 @@
+Momvent: Arrow keys
+Attack: Space Bar

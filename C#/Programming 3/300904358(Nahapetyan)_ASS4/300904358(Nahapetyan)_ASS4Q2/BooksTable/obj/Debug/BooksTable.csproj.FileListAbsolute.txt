@@ -1,0 +1,13 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\Books.mdf
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\Books_log.ldf
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\BooksTable.dll.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\BooksTable.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\BooksTable.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\EntityFramework.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\EntityFramework.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\obj\Debug\BooksTable.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\obj\Debug\BooksTable.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\obj\Debug\BooksTable.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS4\300904358(Nahapetyan)_ASS4Q2\BooksTable\obj\Debug\BooksTable.pdb

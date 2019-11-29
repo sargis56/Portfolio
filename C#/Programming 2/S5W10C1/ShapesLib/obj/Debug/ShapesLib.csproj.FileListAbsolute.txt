@@ -1,0 +1,15 @@
+H:\COMP123\S5W8C1\ShapesLib\bin\Debug\ShapesLib.dll
+H:\COMP123\S5W8C1\ShapesLib\bin\Debug\ShapesLib.pdb
+H:\COMP123\S5W8C1\ShapesLib\obj\Debug\ShapesLib.csprojResolveAssemblyReference.cache
+H:\COMP123\S5W8C1\ShapesLib\obj\Debug\ShapesLib.dll
+H:\COMP123\S5W8C1\ShapesLib\obj\Debug\ShapesLib.pdb
+H:\COMP123\S5W10C1\ShapesLib\obj\Debug\ShapesLib.csprojResolveAssemblyReference.cache
+H:\COMP123\S5W10C1\ShapesLib\obj\Debug\ShapesLib.dll
+H:\COMP123\S5W10C1\ShapesLib\obj\Debug\ShapesLib.pdb
+H:\COMP123\S5W10C1\ShapesLib\bin\Debug\ShapesLib.dll
+H:\COMP123\S5W10C1\ShapesLib\bin\Debug\ShapesLib.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W10C1\ShapesLib\bin\Debug\ShapesLib.dll
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W10C1\ShapesLib\bin\Debug\ShapesLib.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W10C1\ShapesLib\obj\Debug\ShapesLib.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W10C1\ShapesLib\obj\Debug\ShapesLib.dll
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\S5W10C1\ShapesLib\obj\Debug\ShapesLib.pdb

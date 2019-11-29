@@ -1,0 +1,35 @@
+﻿<h1>Add Course</h1>
+<form (ngSubmit)="create()" novalidate>
+    <div>
+        <label for="section">Course Code</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.code"
+                   name="code">
+        </div>
+    </div>
+    <div>
+        <label for="name">Course Name</label>
+        <div>
+            <input type="text" required [(ngModel)]="article.name"
+                   name="name" placeholder="Name">
+        </div>
+    </div>
+    <div>
+        <label for="section">Course Section</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.section"
+                   name="section">
+        </div>
+    </div>
+    <div>
+        <label for="section">Course Semester</label>
+        <div>
+            <input type="number" required [(ngModel)]="article.semester"
+                   name="semester">
+        </div>
+    </div>
+    <div>
+        <input type="submit">
+    </div>
+    <strong id="error">{{errorMessage}}</strong>
+</form>

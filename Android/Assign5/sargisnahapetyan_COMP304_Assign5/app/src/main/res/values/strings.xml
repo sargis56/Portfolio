@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">sargisnahapetyan_COMP304_Assign5</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="str_tommy_hilfigar">TOMMY HILFIGAR</string>
+    <string name="str_gap">GAP</string>
+    <string name="str_guess">GUESS</string>
+    <string name="str_zara">ZARA</string>
+    <string name="str_cleo">CLEO</string>
+
+    <string name="str_toronto">Toronto</string>
+    <string name="str_scarborough">Scarborough</string>
+    <string name="str_mississauga">Mississauga</string>
+    <string name="str_oakville">Oakville</string>
+    <string name="str_north_york">North York</string>
+
+</resources>

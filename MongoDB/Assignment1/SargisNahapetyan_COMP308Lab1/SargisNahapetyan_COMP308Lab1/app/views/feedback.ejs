@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<style>
+body {background-color: linen;}
+</style>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <form method="post"> 
+        <label>First Name:</label>
+        <input type="text" name="firstName" /> <br />
+		<label>Last Name:</label>
+        <input type="text" name="lastName" /> <br />
+        <label>Email:</label>
+        <input type="text" value=<%= emailin%>
+               name="emailFeed" /> <br />
+        <label>Your Comments:</label> <br />
+		<textarea name="feedBack" rows="10" cols="30">Insert feedback here</textarea> <br />
+		<label>Is Sargis awesome:</label> <br />
+		  <input type="radio" name="sayYes"> Yes<br>
+		  <input type="radio" name="sayYes"> Yes<br>
+		<label>Do you like cats:</label> <br />
+		  <input type="radio" name="cats"> Yes<br>
+		  <input type="radio" name="cats"> No<br>
+        <input type="submit" value="Submit" name="submit"/>
+    </form>
+</body>
+</html>

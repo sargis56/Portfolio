@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tommy_hilfigar_menu"
+        android:title="@string/str_tommy_hilfigar" />
+    <item
+        android:id="@+id/gap_menu"
+        android:title="@string/str_gap" />
+    <item
+        android:id="@+id/guess_menu"
+        android:title="@string/str_guess" />
+    <item
+        android:id="@+id/zara_menu"
+        android:title="@string/str_zara" />
+    <item
+        android:id="@+id/cleo_menu"
+        android:title="@string/str_cleo" />
+</menu>

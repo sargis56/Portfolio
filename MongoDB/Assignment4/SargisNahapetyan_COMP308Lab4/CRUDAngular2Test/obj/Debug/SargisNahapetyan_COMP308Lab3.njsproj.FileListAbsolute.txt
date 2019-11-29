@@ -1,0 +1,2 @@
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Emerging Topics\Assignments\Assignment3\SargisNahapetyan_COMP308Lab3\CRUDAngular2Test\obj\Debug\SargisNahapetyan_COMP308Lab3.njsproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\Sem 6\Emerging Topics\Assignments\Assignment3\SargisNahapetyan_COMP308Lab3\CRUDAngular2Test\bin\Microsoft.NodejsTools.WebRole.dll

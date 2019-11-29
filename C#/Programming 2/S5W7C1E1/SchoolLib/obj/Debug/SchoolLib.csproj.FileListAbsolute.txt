@@ -1,0 +1,4 @@
+H:\COMP123\S5W7C1E1\SchoolLib\bin\Debug\SchoolLib.dll
+H:\COMP123\S5W7C1E1\SchoolLib\bin\Debug\SchoolLib.pdb
+H:\COMP123\S5W7C1E1\SchoolLib\obj\Debug\SchoolLib.dll
+H:\COMP123\S5W7C1E1\SchoolLib\obj\Debug\SchoolLib.pdb

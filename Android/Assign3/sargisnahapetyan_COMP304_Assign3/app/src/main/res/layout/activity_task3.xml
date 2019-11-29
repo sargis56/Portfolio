@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Task3Activity">
+
+    <LinearLayout
+        android:id="@+id/ButtonRow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/ButtonStartT3"
+            android:layout_width="89dp"
+            android:layout_height="wrap_content"
+            android:text="Start">
+
+        </Button>
+
+        <Button
+            android:id="@+id/ButtonStopT3"
+            android:layout_width="92dp"
+            android:layout_height="wrap_content"
+            android:text="Stop">
+
+        </Button>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/ImageViewEarth"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ButtonRow"
+        app:srcCompat="@drawable/earth"></ImageView>
+
+    <ImageView
+        android:id="@+id/ImageViewMoon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ButtonRow"
+        app:layout_constraintVertical_bias="0.2"
+        app:srcCompat="@drawable/moon"></ImageView>
+
+</android.support.constraint.ConstraintLayout>

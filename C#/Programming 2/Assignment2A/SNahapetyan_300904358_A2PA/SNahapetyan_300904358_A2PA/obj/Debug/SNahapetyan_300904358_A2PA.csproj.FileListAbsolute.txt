@@ -1,0 +1,6 @@
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2A\SNahapetyan_300904358_A2PA\SNahapetyan_300904358_A2PA\bin\Debug\SNahapetyan_300904358_A2PA.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2A\SNahapetyan_300904358_A2PA\SNahapetyan_300904358_A2PA\bin\Debug\SNahapetyan_300904358_A2PA.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2A\SNahapetyan_300904358_A2PA\SNahapetyan_300904358_A2PA\bin\Debug\SNahapetyan_300904358_A2PA.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2A\SNahapetyan_300904358_A2PA\SNahapetyan_300904358_A2PA\obj\Debug\SNahapetyan_300904358_A2PA.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2A\SNahapetyan_300904358_A2PA\SNahapetyan_300904358_A2PA\obj\Debug\SNahapetyan_300904358_A2PA.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2A\SNahapetyan_300904358_A2PA\SNahapetyan_300904358_A2PA\obj\Debug\SNahapetyan_300904358_A2PA.csprojResolveAssemblyReference.cache

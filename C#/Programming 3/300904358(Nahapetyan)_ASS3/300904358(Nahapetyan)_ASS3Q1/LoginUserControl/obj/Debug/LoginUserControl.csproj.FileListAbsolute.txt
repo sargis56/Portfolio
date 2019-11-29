@@ -1,0 +1,13 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\bin\Debug\LoginUserControl.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\bin\Debug\LoginUserControl.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl_MarkupCompile.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl_MarkupCompile.lref
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.baml
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.g.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.Properties.Resources.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.csproj.GenerateResource.Cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.dll
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS3\300904358(Nahapetyan)_ASS3Q1\LoginUserControl\obj\Debug\LoginUserControl.csprojResolveAssemblyReference.cache

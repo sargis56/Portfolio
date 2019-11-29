@@ -1,0 +1,8 @@
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\bin\Debug\SNahapetyan_300904358_A2.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\obj\Debug\SNahapetyan_300904358_A2.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\bin\Debug\SNahapetyan_300904358_A2.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\bin\Debug\SNahapetyan_300904358_A2.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\bin\Debug\ClassLibrary.dll
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\bin\Debug\ClassLibrary.pdb
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\obj\Debug\SNahapetyan_300904358_A2.exe
+C:\Users\Sargis Nahapetyan\Desktop\COMP123\Assignment2\SNahapetyan_300904358_A2\SNahapetyan_300904358_A2\obj\Debug\SNahapetyan_300904358_A2.pdb

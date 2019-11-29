@@ -1,0 +1,23 @@
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\bin\Debug\300904358(Nahapetyan)_ASS1.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\bin\Debug\300904358(Nahapetyan)_ASS1.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\bin\Debug\300904358(Nahapetyan)_ASS1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.Properties.Resources.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.csproj.GenerateResource.Cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.exe
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.pdb
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.NotificationForm.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.SubscribeForm.resources
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.PublishNotificationForm.resources
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\bin\Debug\300904358(Nahapetyan)_ASS1.exe.config
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.exe
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.pdb
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\bin\Debug\300904358(Nahapetyan)_ASS1.exe
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\bin\Debug\300904358(Nahapetyan)_ASS1.pdb
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.csprojResolveAssemblyReference.cache
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.NotificationForm.resources
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.PublishNotificationForm.resources
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.SubscribeForm.resources
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\_300904358_Nahapetyan__ASS1.Properties.Resources.resources
+C:\Users\300904358\Desktop\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.csproj.GenerateResource.Cache
+C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS1\300904358(Nahapetyan)_ASS1\obj\Debug\300904358(Nahapetyan)_ASS1.csproj.CoreCompileInputs.cache

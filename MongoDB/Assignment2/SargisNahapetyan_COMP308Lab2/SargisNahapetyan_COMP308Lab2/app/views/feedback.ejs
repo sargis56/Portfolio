@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<style>
+body {
+  text-align: center;
+}
+</style>
+<head>
+<title> </title>
+</head>
+<body>
+<h1>Feedback</h1>
+<form method = "post" >
+	<label>First Name:</label>
+	<input type="text" size="30" placeholder="Enter your first name:" name="firstName" value=<%= firstNamein%>><br />
+	<label>Last Name:</label>
+	<input type="text" size="30" placeholder="Enter your last name:" name="lastName" value=<%= lastNamein%>><br />
+	<label>Email:</label>
+	<input type="text" size="30" placeholder="Enter your email:" name="email" value=<%= emailin%>><br />
+	<label>Password:</label>
+	<input type="password" size="30" placeholder="Enter your password:" name="password" value=<%= passwordin%>><br />
+
+			<label>Favourite Subject:</label>
+        <input type="text" name="fs" value=<%= fsin%>> <br />
+
+		<label>Favourite Teacher:</label>
+        <input type="text" name="ft" value=<%= ftin%>> <br />
+
+		<label>Provide Your Feedback:</label> <br />
+		<textarea name="feedBack" rows="10" cols="30">Insert feedback here</textarea> <br />
+
+	<button type="submit" > Submit Feedback </button></form>
+
+</body>
+</html>
