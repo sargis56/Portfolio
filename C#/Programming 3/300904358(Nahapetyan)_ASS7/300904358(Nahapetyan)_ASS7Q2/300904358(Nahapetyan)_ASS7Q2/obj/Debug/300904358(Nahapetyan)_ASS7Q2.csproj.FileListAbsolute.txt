@@ -13,3 +13,18 @@ C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_
 C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.csproj.CoreCompileInputs.cache
 C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.exe
 C:\Users\Sargis Nahapetyan\Desktop\CC Sem 4\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.pdb
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\bin\Debug\300904358(Nahapetyan)_ASS7Q2.exe.config
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\bin\Debug\300904358(Nahapetyan)_ASS7Q2.exe
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\bin\Debug\300904358(Nahapetyan)_ASS7Q2.pdb
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.csprojResolveAssemblyReference.cache
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\MainWindow.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\App.g.cs
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2_MarkupCompile.cache
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2_MarkupCompile.lref
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\MainWindow.baml
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.g.resources
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\_300904358_Nahapetyan__ASS7Q2.Properties.Resources.resources
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.csproj.GenerateResource.cache
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.csproj.CoreCompileInputs.cache
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.exe
+C:\Users\Sargis Nahapetyan\Desktop\Github\Portfolio\C#\Programming 3\300904358(Nahapetyan)_ASS7\300904358(Nahapetyan)_ASS7Q2\300904358(Nahapetyan)_ASS7Q2\obj\Debug\300904358(Nahapetyan)_ASS7Q2.pdb
